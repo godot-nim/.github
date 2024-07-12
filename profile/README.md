@@ -2,6 +2,19 @@
 
 This project aims to strongly support game and real-time content development using Nim by developing a Nim implementation of gdextension and supporting tools.
 
+## Quick Start
+
+```bash
+nimble install https://github.com/godot-nim/minister
+minister install
+```
+
+Now whole library is installed. You can start to develop with starting `import godot`.
+
+## Project Overview
+
+![overview image](../out/projectOverview/Project%20Overview.svg)
+
 ## Contribute
 
 ### Participate in projects

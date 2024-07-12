@@ -1,0 +1,47 @@
+@startuml "Project Overview"
+!theme materia-outline
+skinparam backgroundColor #WhiteSmoke
+skinparam componentStyle uml1
+skinparam actorStyle awesome
+
+package godot.org {
+  [godot] as gd
+
+  [extension_api.json] <<file>> as api
+  [gdextension_interface.h] <<file>> as ifce
+}
+
+package godot-nim {
+  component coronation [
+    coronation
+  ]
+  [minister]
+  node library {
+    [godotcore]
+    [godotgen]
+    [godot]
+  }
+}
+
+actor You
+
+api .d.> gd : dump
+ifce .d.> gd : dump
+
+godotgen -l-|> godotcore
+godot -u-|> godotcore
+godot -u-|> godotgen
+
+godotgen .u.> coronation : generate
+
+coronation ..> api : reference
+godotcore ..> ifce: include
+
+minister .u.> library : install/uninstall
+minister .u.> coronation : use while install
+
+You -> gd
+You -u-|> godot
+You -> minister
+
+@enduml
