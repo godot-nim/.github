@@ -29,23 +29,7 @@ If you are not sure what to do with a task, ask a question via the issue.
 
 ### Report an issue
 
-* Problems with running coronation
-
-  Please report to issues along with output to godot-nim/[coronation].
-  
-* Problems with the `godot` module
-
-  Please report to issues with output to godot-nim/[coronation].
-  
-* Problems with `godotcore` module
-
-  Please report to issues with output to godot-nim/[godotcore].
-  
-* Problems with the `minister` command
-
-  Please report to issues with output to godot-nim/[minister].
-
-If you are not sure whether to report to coronation or godotcore, please report to coronation.
+It would be helpful if you could submit it to the module that you think is the direct cause of the problem, but if in doubt, please submit it to godot.
 
 ### Feature suggestions
 
