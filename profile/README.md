@@ -33,7 +33,7 @@ It would be helpful if you could submit it to the module that you think is the d
 
 ### Documentation
 
-Please reply to [Stumbling blocks in app implementation] if you have any content that you were able to resolve on your own but took time to resolve. We will use it for hint of documentation purposes.
+Please reply to [Stumbling blocks in app implementation] if you have any content that stumbling blocks or you were able to resolve on your own but took time to resolve. We will use it for hint of documentation purposes.
 
 ### Feature suggestions
 
