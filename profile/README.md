@@ -12,10 +12,6 @@ and [wiki - Setup project](https://github.com/godot-nim/docs/wiki/Setup-project)
 see [godot-nim/demo](https://github.com/godot-nim/demo)
 and [wiki - Run demo projects](https://github.com/godot-nim/docs/wiki/Run-demo-projects)
 
-## Project Overview
-
-![overview image](../out/projectOverview/Project%20Overview.svg)
-
 ## Contribute
 
 ### Participate in projects
