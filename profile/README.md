@@ -4,8 +4,10 @@ This project aims to strongly support game and real-time content development usi
 
 ## Setup
 
-see [wiki - Setup library](https://github.com/godot-nim/docs/wiki/Setup-library)
-and [wiki - Setup project](https://github.com/godot-nim/docs/wiki/Setup-project).
+see [wiki - Setup library](https://github.com/godot-nim/docs/wiki/Setup-library) for installation
+and [wiki - General project setup](https://github.com/godot-nim/docs/wiki/General-project-setup) for the basic project structure.
+
+[wiki - Addon project setup](https://github.com/godot-nim/docs/wiki/Addon-project-setup) for more advanced usage(/publishing) though this is a work in progress.
 
 ## Demo
 
