@@ -4,7 +4,7 @@ This project aims to strongly support game and real-time content development usi
 
 ## Contribute
 
-### Discussion
+### Discussions
 
 * [gdext-nim/discussions](https://github.com/godot-nim/gdext-nim/discussions)
 
