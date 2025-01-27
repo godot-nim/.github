@@ -4,6 +4,16 @@ This project aims to strongly support game and real-time content development usi
 
 ## Contribute
 
+### Discussion
+
+* [gdext-nim/discussions](https://github.com/godot-nim/gdext-nim/discussions)
+
+  Please use this for questions, showcases, and chit-chat about gdext-nim.
+
+* [godot-nim/discussions](https://github.com/godot-nim/.github/discussions)
+
+  Not in use at the moment, but please use it for topics related to the project as a whole, e.g. suggestions for new repositories, community management, etc.
+
 ### Participate in projects
 
 Currently godot-nim is seeking collaborators.
